@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="[hello] decryption" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="ray1024.informationsecurity" />
+    <option name="PROGRAM_PARAMETERS" value="--input tests/hello/hello.encrypted --output tests/hello/hello.decrypted --key tests/hello/hello.key --initial-vector tests/hello/hello.iv --mode decrypt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

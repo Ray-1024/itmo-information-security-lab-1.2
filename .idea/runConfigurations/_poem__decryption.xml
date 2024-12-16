@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="[poem] decryption" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="ray1024.informationsecurity" />
+    <option name="PROGRAM_PARAMETERS" value="--input tests/poem/poem.encrypted --output tests/poem/poem.decrypted --key tests/poem/poem.key --initial-vector tests/poem/poem.iv --mode decrypt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
